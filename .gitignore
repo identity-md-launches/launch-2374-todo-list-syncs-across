@@ -1,0 +1,9 @@
+# Generated-only path budget: see README.md. dist/ is intentionally included.
+**/node_modules/
+**/.cache/
+**/.vite/
+**/.npm/
+**/npm-cache/
+**/coverage/
+/.playwright-mcp/
+/test/scratch/

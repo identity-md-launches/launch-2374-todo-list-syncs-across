@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f8f4"/>
+  <rect x="730" y="0" width="470" height="630" fill="#eaf0e4"/>
+  <g transform="translate(80 65)"><rect width="54" height="54" rx="15" fill="#285b48"/><rect x="11" y="13" width="24" height="27" rx="6" fill="none" stroke="#b9d2b1" stroke-width="2.5"/><rect x="20" y="19" width="24" height="27" rx="6" fill="#285b48" stroke="#fff" stroke-width="2.5"/><path d="m26 32 5 5 7-9" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/><text x="71" y="39" font-family="Arial,sans-serif" font-size="40" font-weight="600" letter-spacing="-2" fill="#27382e">tandem.</text></g>
+  <text x="80" y="275" font-family="Arial,sans-serif" font-size="78" font-weight="600" letter-spacing="-4" fill="#27382e">A little</text>
+  <text x="80" y="365" font-family="Arial,sans-serif" font-size="78" font-weight="600" letter-spacing="-4" fill="#285b48">more done.</text>
+  <text x="84" y="430" font-family="Arial,sans-serif" font-size="25" fill="#65705f">A calm place for tasks. Together on your devices.</text>
+  <rect x="82" y="493" width="175" height="53" rx="9" fill="#285b48"/><text x="109" y="527" font-family="Arial,sans-serif" font-size="20" fill="#fff">One task at a time</text>
+  <g transform="rotate(-7 940 315)"><rect x="800" y="150" width="270" height="350" rx="22" fill="#d4e0ca" stroke="#b5c6aa" stroke-width="2"/></g>
+  <g transform="rotate(5 940 315)"><rect x="825" y="135" width="270" height="350" rx="22" fill="#fffefb" stroke="#90a68b" stroke-width="2"/><rect x="891" y="118" width="140" height="40" rx="14" fill="#dbe6d3" stroke="#90a68b" stroke-width="2"/><rect x="862" y="205" width="39" height="39" rx="10" fill="#285b48"/><path d="m871 224 8 8 14-18" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/><path d="M925 216h120m-120 18h85" stroke="#b0bba7" stroke-width="6" stroke-linecap="round"/><rect x="862" y="291" width="39" height="39" rx="10" fill="none" stroke="#b0bba7" stroke-width="3"/><path d="M925 305h110m-110 18h65" stroke="#c9d1c1" stroke-width="6" stroke-linecap="round"/><rect x="862" y="377" width="39" height="39" rx="10" fill="none" stroke="#b0bba7" stroke-width="3"/><path d="M925 392h90" stroke="#c9d1c1" stroke-width="6" stroke-linecap="round"/></g>
+</svg>
